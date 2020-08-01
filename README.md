@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 Hi, I'm Abhishek Kumar, a FullStack developer who is highly driven and well-versed in RESTful architecture and Frontend development. I built highly scalable web apps that scaled to many users and drive the product vision.
 <br/>
 
-- 🌱 I’m currently learning on Reactjs and implementing them into mini projects.
+- 🌱 I’m currently working on Reactjs and implementing them into mini projects.
 - 💬 Ask me about anything [here](https://github.com/abhishekvirat0/abhishekvirat0/issues)
 - ⚡ Fun fact: The computer virus wasn't designed to be harmful
 
