@@ -21,8 +21,9 @@ Here are some ideas to get you started:
   <img align="left" alt="Abhishek's email" width="45px" src="https://github.com/abhishekvirat0/abhishekvitat0/blob/master/icons8-email-100.png" />
 </a>
 
-<br />
-<br />
+<br/>
+<br/>
+<br/>
 
 Hi, I'm Abhishek Kumar, a FullStack developer who is highly driven and well-versed in RESTful architecture and Frontend development. I built highly scalable web apps that scaled to many users and drive the product vision.
 <br/>
