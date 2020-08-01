@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 ### Hi there, I'm [Abhishek!](https://meabhishek.herokuapp.com/) 👋
 
 <a href="https://www.linkedin.com/in/abhishekvirat/">
-  <img align="left" alt="Abhishe's LinkedIn" | LinkedIn" width="45px" src="https://github.com/abhishekvirat0/abhishekvitat0/blob/master/icons8-linkedin.svg" />
+  <img align="left" alt="Abhishe's LinkedIn" | LinkedIn" width="45px" src="https://github.com/abhishekvirat0/abhishekvirat0/blob/master/icons8-linkedin.svg" />
 </a>
 <a href="mailto:abhishekvirat0@gmail.com">
-  <img align="left" alt="Abhishek's email" width="45px" src="https://github.com/abhishekvirat0/abhishekvitat0/blob/master/icons8-email-100.png" />
+  <img align="left" alt="Abhishek's email" width="45px" src="https://github.com/abhishekvirat0/abhishekvirat0/blob/master/icons8-email-100.png" />
 </a>
 
 <br/>
