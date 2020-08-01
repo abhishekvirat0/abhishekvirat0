@@ -41,7 +41,7 @@ Hi, I'm Abhishek Kumar, a FullStack developer who is highly driven and well-vers
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 
 [![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekvirat0&layout=compact&theme=radical)](https://github.com/abhishekvirat0/github-readme-stats)
-[![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=abhishekvirat0&show_icons=true&theme=radical&hide=issues)](https://github.com/abhishekvirat0/github-readme-stats)
+[![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=abhishekvirat0&show_icons=true&theme=radical&hide=issues)](#)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abhishekvirat0&repo=Food_Ordering_App&theme=radical)](https://github.com/abhishekvirat0/Food_Ordering_App)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abhishekvirat0&repo=nodejs-twitter-bot&theme=radical)](https://github.com/abhishekvirat0/nodejs-twitter-bot)
 
