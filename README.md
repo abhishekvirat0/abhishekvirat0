@@ -29,7 +29,6 @@ Hi, I'm Abhishek Kumar, a FullStack developer who is highly driven and well-vers
 
 - 🌱 I’m currently learning on Reactjs and implementing them into mini projects.
 - 💬 Ask me about anything [here](https://github.com/abhishekvirat0/abhishekvirat0/issues)
-- 📫 How to reach me: [linkedIn](https://www.linkedin.com/in/abhishekvirat/)
 - ⚡ Fun fact: The computer virus wasn't designed to be harmful
 
 **Languages and Tools:**  
